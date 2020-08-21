@@ -1,0 +1,19 @@
+/.idea
+/desktop.ini
+# data 
+
+/data/.ipynb_checkpoints
+/data/original_data/hela
+/data/original_data/plasma1
+/data/original_data/plasma2
+
+# scripts
+
+/scripts/.idea
+/scripts/.ipynb_checkpoints
+/scripts/jupyter/.ipynb_checkpoints
+/scripts/R/.Rhistory
+
+# pyLib
+
+/pyLib/__pycache__
